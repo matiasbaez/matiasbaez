@@ -1,0 +1,56 @@
+[
+    {
+        "type": "intro",
+        "data": "Matias Baez's -category- projects! 👋"
+    },
+    {
+        "type": "description",
+        "data": "<em>I'm a **backend developer**, **frontend developer**. There is no challenge big enough not to try, My code will change the **world** some day.</em>"
+    },
+    {
+        "type": "categories",
+        "data": {}
+    },
+    {
+        "type": "rightImage",
+        "data": {
+            "image": "https://github.com/matiasbaez/matiasbaez/raw/master/img/mean-stack.png",
+            "link": "https://www.linkedin.com/in/matiasbaez/"
+        }
+    },
+    {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "-category- Projects -emoji-",
+            "count": 9999,
+            "showEmojis": true,
+            "showScore": false,
+            "ignore_pinned": false
+        }
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "social",
+        "data": {
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "social": [
+                {
+                    "alt": "Matias's LinkedIn",
+                    "url": "https://www.linkedin.com/in/matiasbaez/",
+                    "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+                }
+            ]
+        }
+    },
+    {
+        "type": "extra",
+        "data": "###### [* This is an autogenerate readme](https://github.com/matiasbaez/matiasbaez/tree/master/ReadmeGenerator)"
+    }
+]
