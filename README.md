@@ -1,7 +1,7 @@
 # Hello, Matias is Here! 👋
 
 
-<em>I'm a **backend developer**, **frontend developer**. There is no challenge big enough not to try, My code will change the **world** some day.</em>
+<em>I'm a **fullstack developer**. There is no challenge big enough not to try, My code will change the **world** some day.</em>
 
 
 <p align="center">
