@@ -6,11 +6,11 @@
 
 <p align="center">
 <a href="https://github.com/matiasbaez/matiasbaez/blob/master/backend.md">💻</a>
-<a href="https://github.com/matiasbaez/matiasbaez/blob/master/fronted.md">💻</a>
+<a href="https://github.com/matiasbaez/matiasbaez/blob/master/frontend.md">:beginner:</a>
 </p>
 
 
-<a href="https://linkedin.com/in/matiasbaez">
+<a href="https://www.linkedin.com/in/matiasbaez/">
 <img align="right" height="auto" width="200" src="https://github.com/matiasbaez/matiasbaez/raw/master/img/mean-stack.png"/>
 </a>
 
@@ -27,11 +27,9 @@
 
 
 ## Awesome Projects 📚
-- [Node Fotosgram server :beginner: 💻](https://github.com/matiasbaez/node-fotosgram-server)
-- [Ionic Fotosgram :beginner: 💻](https://github.com/matiasbaez/ionic-angular-fotosgram)
-- [Ionic Qrscanner :beginner: 💻](https://github.com/matiasbaez/ionic-angular-qrscanner)
-- [Ionic Movies :beginner: 💻](https://github.com/matiasbaez/ionic-angular-movies)
-- [Ionic News :beginner: 💻](https://github.com/matiasbaez/ionic-angular-news)
+- [Node fotosgram server  💻](https://github.com/matiasbaez/node-fotosgram-server) 
+
+
 
 <br>
 
