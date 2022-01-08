@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/matiasbaez/matiasbaez/blob/master/backend.md">💻</a>
-<a href="https://github.com/matiasbaez/matiasbaez/blob/master/frontend.md">:beginner:</a>
+<a href="https://github.com/matiasbaez/matiasbaez/blob/master/ionic.md">:beginner:</a>
 </p>
 
 
@@ -28,6 +28,13 @@
 
 ## Awesome Projects 📚
 - [Node fotosgram server  💻](https://github.com/matiasbaez/node-fotosgram-server) 
+- [Ionic angular filetransfer  :beginner:](https://github.com/matiasbaez/ionic-angular-filetransfer) 
+- [Ionic angular fotosgram  :beginner:](https://github.com/matiasbaez/ionic-angular-fotosgram) 
+- [Ionic angular qrscanner  :beginner:](https://github.com/matiasbaez/ionic-angular-qrscanner) 
+- [Ionic angular pushapp  :beginner:](https://github.com/matiasbaez/ionic-angular-pushapp) 
+- [Ionic angular movies  :beginner:](https://github.com/matiasbaez/ionic-angular-movies) 
+- [Ionic angular components  :beginner:](https://github.com/matiasbaez/ionic-angular-components) 
+- [Ionic angular news  :beginner:](https://github.com/matiasbaez/ionic-angular-news) 
 
 
 

@@ -1,4 +1,4 @@
-# Matias Baez's Backend projects! 👋
+# Matias Baez's Frontend projects! 👋
 
 
 <em>I'm a **fullstack developer**. There is no challenge big enough not to try, My code will change the **world** some day.</em>
@@ -15,8 +15,14 @@
 </a>
 
 
-## Backend Projects 💻
-- [Node fotosgram server  💻](https://github.com/matiasbaez/node-fotosgram-server) 
+## Frontend Projects :beginner:
+- [Ionic angular filetransfer  :beginner:](https://github.com/matiasbaez/ionic-angular-filetransfer) 
+- [Ionic angular fotosgram  :beginner:](https://github.com/matiasbaez/ionic-angular-fotosgram) 
+- [Ionic angular qrscanner  :beginner:](https://github.com/matiasbaez/ionic-angular-qrscanner) 
+- [Ionic angular pushapp  :beginner:](https://github.com/matiasbaez/ionic-angular-pushapp) 
+- [Ionic angular movies  :beginner:](https://github.com/matiasbaez/ionic-angular-movies) 
+- [Ionic angular components  :beginner:](https://github.com/matiasbaez/ionic-angular-components) 
+- [Ionic angular news  :beginner:](https://github.com/matiasbaez/ionic-angular-news) 
 
 
 
