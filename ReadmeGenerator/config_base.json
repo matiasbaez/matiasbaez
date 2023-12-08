@@ -12,7 +12,7 @@
                 {
                     "name": "Frontend",
                     "emoji": ":beginner:",
-                    "tag": "ionic"
+                    "tag": "flutter"
                 }
             ]
         }
@@ -44,6 +44,7 @@
                 "NodeJs ⭐",
                 "MongoDB ⭐",
                 "Express ⭐",
+                "Flutter ⭐",
                 "Angular ⭐",
                 "Ionic ⭐",
                 "Laravel",
